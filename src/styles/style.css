@@ -396,8 +396,3 @@ footer{
     background-color: var(--color-blue);
     transform: translateY(-10px);
 }
-
-
-@media (max-width:884px){
-    
-}
